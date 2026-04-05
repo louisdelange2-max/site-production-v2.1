@@ -1,6 +1,6 @@
 {
-  "name": "Service Report",
-  "short_name": "Service",
+  "name": "SITE PRODUCTION",
+  "short_name": "SITE PRODUCTION",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
